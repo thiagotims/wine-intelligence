@@ -107,7 +107,7 @@ wine-quality-ml/
 ├── winequality-red.csv
 ├── wine_analysis.ipynb          # Notebook completo com EDA + ML
 ├── README.md                    # Este arquivo
-└── requirements.txt             # (opcional) Lista de dependências
+└── requirements.txt             # (opcional) Lista de dependências. Install: pip install -r requirements.txt
 ```
 
 ---
