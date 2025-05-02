@@ -107,7 +107,7 @@ Cada modelo foi avaliado com as métricas: **Accuracy, F1 Score, Precision, Reca
 wine-quality-ml/
 │
 ├── src/
-│   └── winequality-red.csv      # Dataset movido para pasta src
+│   └── winequality-red.csv      # Dataset 
 │
 ├── wine_analysis.ipynb          # Notebook completo com EDA + ML
 ├── README.md                    # Este arquivo
