@@ -101,13 +101,17 @@ Cada modelo foi avaliado com as métricas: **Accuracy, F1 Score, Precision, Reca
 
 ## 📂 Estrutura do Projeto
 
+
+
 ```
 wine-quality-ml/
 │
-├── winequality-red.csv
+├── src/
+│   └── winequality-red.csv      # Dataset movido para pasta src
+│
 ├── wine_analysis.ipynb          # Notebook completo com EDA + ML
 ├── README.md                    # Este arquivo
-└── requirements.txt             # (opcional) Lista de dependências. Install: pip install -r requirements.txt
+└── requirements.txt             # Lista de dependências (pip install -r requirements.txt)
 ```
 
 ---
