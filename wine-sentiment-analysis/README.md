@@ -87,7 +87,7 @@ pip install -r requirements.txt
 ## 🧑‍💻 Autor
 
 **[Seu Nome Aqui]**  
-[🔗 LinkedIn](https://www.linkedin.com/in/devtim/) • [📂 Portfólio](https://seuportfolio.com) • [📫 Contato](mailto:thiagotimdev@gmail.com)
+[🔗 LinkedIn](https://www.linkedin.com/in/devtim/) • [📂 Portfólio](https://github.com/thiagotims/) • [📫 Contato](mailto:thiagotimdev@gmail.com)
 
 ---
 
