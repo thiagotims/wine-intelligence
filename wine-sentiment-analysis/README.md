@@ -71,8 +71,8 @@ pip install -r requirements.txt
 
 ## 📁 Arquivos Importantes
 
-- `modelo_bertimbau_sentimento.pt` — Modelo treinado salvo.
-- `resultados_sentimento.csv` — Comentários com sentimentos previstos.
+- `modelo_bertimbau_sentimento.pt` — modelo treinado salvo.
+- `resultados_sentimento.csv` — comentários com sentimentos previstos.
 - `requirements.txt`   — arquivo contendo os pacotes utilizados nos testes via Google Colab.
 
 ---
